@@ -1,0 +1,6 @@
+res://bb1.tscn
+res://character_body_2d.gd
+res://area_2d.gd
+res://control.gd
+res://script/event_controller.gd
+res://script/game_controller.gd
